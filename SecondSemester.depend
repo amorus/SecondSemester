@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1496137847 source:c:\users\gallo\desktop\codeblocks\secondsemester\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1496137785 c:\users\gallo\desktop\codeblocks\secondsemester\main.h
+
